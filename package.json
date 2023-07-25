@@ -1,0 +1,19 @@
+{
+  "name": "reconciler",
+  "version": "1.0.0",
+  "description": "Reconciler for Dynamic Todo List Rendering with React",
+  "main": "reconciler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshVsingh1/reconciler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarshVsingh1/reconciler/issues"
+  },
+  "homepage": "https://github.com/HarshVsingh1/reconciler#readme"
+}
